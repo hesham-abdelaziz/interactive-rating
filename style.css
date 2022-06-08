@@ -192,7 +192,7 @@ ul {
 
 /* Media */
 
-@media (max-width : 375px) {
+@media (max-width : 568px) {
     .container .box-element ,
     .container .box-element .submitBtn {
         width: 300px;
